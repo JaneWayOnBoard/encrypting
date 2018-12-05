@@ -1,0 +1,7 @@
+setup.py
+encrypting.egg-info/PKG-INFO
+encrypting.egg-info/SOURCES.txt
+encrypting.egg-info/dependency_links.txt
+encrypting.egg-info/top_level.txt
+encryptingAlphabet/__init__.py
+encryptingAlphabet/lettersEncrypt.py
